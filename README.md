@@ -31,8 +31,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain. 
 
-Add introduction about the project
+It serves as a curated list of React material and content to help in learning react in-depth and build a solid foundation of programming concepts. We organized the material topic-wise and categorized it into articles, talks, and podcasts for now. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
@@ -57,6 +58,14 @@ Add introduction about the project
 
 ### Podcasts
 - 🎙️ [Podcast Link](https://www.google.com)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
+
+<!-- CONTRIBUTION -->
+## Contribution
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated!**.
+
+Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
