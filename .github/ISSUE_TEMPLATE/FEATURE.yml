@@ -26,6 +26,7 @@ body:
         - New react expert
         - New react topic
         - Idea
+        - Other
     validations:
       required: true
   - type: textarea
