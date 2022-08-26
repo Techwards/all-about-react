@@ -28,7 +28,7 @@ body:
       required: true
   - type: markdown
     attributes:
-      values: '## Screenshots'
+      value: '## Screenshots'
   - type: markdown
     attributes:
-      values: Add screenshot of bug or point to the portion where you want to fix
+      value: Add screenshot of bug or point to the portion where you want to fix
