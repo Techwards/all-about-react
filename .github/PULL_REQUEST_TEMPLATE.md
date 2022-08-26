@@ -14,6 +14,7 @@ Changes proposed in this pull request:
   - [ ] New feature
   - [ ] Bug in content and documentation
   - [ ] Fix in content and documentation
+  - [ ] Other changes
 
 ## Screenshots
 Add updated screenshots of `README.md`
