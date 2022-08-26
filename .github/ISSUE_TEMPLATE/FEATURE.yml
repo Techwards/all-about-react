@@ -1,0 +1,38 @@
+name: Feature Request
+description: Suggest a topic, expert or any idea for improving all-about-react
+title: "[Feature]: "
+labels: ["feature", "triage"]
+assignees:
+  - nabeel-shakeel
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this feature request! To address this request as fast as possible, we need some information.
+  - type: input
+    id: contact
+    attributes:
+      label: Contact Details
+      description: How can we get in touch with you if we need more info?
+      placeholder: ex. nabeel.shakeel@techwards.co
+    validations:
+      required: false
+  - type: dropdown
+    id: feature_type
+    attributes:
+      label: Feature Type
+      description: Select the feature type
+      options:
+        - New react expert
+        - New react topic
+        - Idea
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a short description of what you are proposing
+      placeholder: Give arguments for why the resource or expert should be included
+    validations:
+      required: true
