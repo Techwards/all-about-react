@@ -2,7 +2,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Techwards/all-about-react">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" height="80">
   </a>
   <h2 align="center"><b>All About React</b></h2>
   <p align="center">
