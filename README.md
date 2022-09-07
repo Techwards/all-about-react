@@ -244,16 +244,16 @@ These are the react experts to whom content and resources we are referring
 
 ### Blogs and Articles
 
-- 📜 [Wrapping React.useState with TypeScript](https://kentcdodds.com/blog/wrapping-react-use-state-with-type-script?ck_subscriber_id=363851721)
-- 📜 [How to write a React Component in TypeScript](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript)
+- 📜 [Wrapping React.useState with TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/wrapping-react-use-state-with-type-script?ck_subscriber_id=363851721)
+- 📜 [How to write a React Component in TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript)
 
 ### Talks
 
-- 🎥 [TypeScript-ifying react-workshop-app](https://www.youtube.com/watch?v=3gGoV1TYmFk)
-- 🎥 [TypeScript-ifying EpicReact.dev workshops](https://www.youtube.com/watch?v=ouKooD-Afjo)
-- 🎥 [TypeScript-ifying the React Fundamentals workshop](https://www.youtube.com/watch?v=-p4RXvG9x-U)
-- 🎥 [TypeScript-ifying EpicReact.dev workshops](https://www.youtube.com/watch?v=N59_LYnf_SI)
-- 🎥 [TypeScriptifying the "Advanced React Hooks" workshop](https://www.youtube.com/watch?v=wsTKYr2acl8)
+- 🎥 [TypeScript-ifying react-workshop-app by Kent C. Dodds](https://www.youtube.com/watch?v=3gGoV1TYmFk)
+- 🎥 [TypeScript-ifying EpicReact.dev workshops by Kent C. Dodds](https://www.youtube.com/watch?v=ouKooD-Afjo)
+- 🎥 [TypeScript-ifying the React Fundamentals workshop by Kent C. Dodds](https://www.youtube.com/watch?v=-p4RXvG9x-U)
+- 🎥 [TypeScript-ifying EpicReact.dev workshops by Kent C. Dodds](https://www.youtube.com/watch?v=N59_LYnf_SI)
+- 🎥 [TypeScriptifying the "Advanced React Hooks" workshop by Kent C. Dodds](https://www.youtube.com/watch?v=wsTKYr2acl8)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
