@@ -238,8 +238,6 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Write fewer, longer tests by Kent C. Dodds](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - 📜 [How to Test React.useEffect by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/)
 
-![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
-
 <!-- REACT IN TYPESCRIPT -->
 
 ## React in TypeScript [🔝](#table-of-contents)
@@ -256,6 +254,9 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [TypeScript-ifying the React Fundamentals workshop](https://www.youtube.com/watch?v=-p4RXvG9x-U)
 - 🎥 [TypeScript-ifying EpicReact.dev workshops](https://www.youtube.com/watch?v=N59_LYnf_SI)
 - 🎥 [TypeScriptifying the "Advanced React Hooks" workshop](https://www.youtube.com/watch?v=wsTKYr2acl8)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
+
 <!-- CONTRIBUTION -->
 
 ## Contribution
