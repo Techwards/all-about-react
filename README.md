@@ -30,16 +30,21 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
-This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain. 
 
-It serves as a curated list of React material and content to help in learning react in-depth and build a solid foundation of programming concepts. We organized the material topic-wise and categorized it into articles, talks, and podcasts for now. 
+## About The Project
+
+This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain.
+
+It serves as a curated list of React material and content to help in learning react in-depth and build a solid foundation of programming concepts. We organized the material topic-wise and categorized it into articles, talks, and podcasts for now.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- EXPERTS -->
+
 ## Experts
+
 These are the react experts to whom content and resources we are referring
+
 <table>
   <tr>
       <td align="center"><a href="#personal_blog"><img src="https://avatars.githubusercontent.com/u/3624098?v=4?s=100" width="100px;" alt="Andrew Clark"/><br /><sub><b>Andrew Clark</b></sub></a><br /><a href="https://github.com/acdlite" title="Github Profile"><img align="center"
@@ -90,6 +95,7 @@ These are the react experts to whom content and resources we are referring
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- TABLE OF CONTENT -->
+
 ## <a id="table-of-contents">Table of Contents</a>
 
 - **[State and Props](#-state-and-props)**
@@ -97,13 +103,16 @@ These are the react experts to whom content and resources we are referring
 - **[Rendering](#-rendering)**
 - **[Patterns](#-patterns)**
 - **[Testing](#-testing)**
+- **[React in TypeScript](#-react-in-typescript)**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- STATE AND PROPS -->
+
 ## State and Props [🔝](#table-of-contents)
 
 ### Blogs and Articles
+
 - 📜 [You Probably Don't Need Derived State by Brian Vaughn](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#when-to-use-derived-state)
 - 📜 [Props vs State by Kent C. Dodds](https://kentcdodds.com/blog/props-vs-state)
 - 📜 [Don't Sync State. Derive It by Kent C. Dodds](https://kentcdodds.com/blog/application-state-management-with-react)
@@ -118,11 +127,13 @@ These are the react experts to whom content and resources we are referring
 - 📜 [How is state related to the declarative approach in React? by Brad Westfall](https://reacttraining.com/blog/state-and-the-declarative-approach/)
 
 ### Talks
+
 - 🎥 [Using Composition in React to Avoid "Prop Drilling" By Michael Jackson](https://www.youtube.com/watch?v=3XaXKiXtNjw)
 
 ## Hooks [🔝](#table-of-contents)
 
 ### Blogs and Articles
+
 - 📜 [Why Do React Hooks Rely on Call Order by Dan Abramov](https://overreacted.io/why-do-hooks-rely-on-call-order/)
 - 📜 [Before You memo() by Dan Abramov](https://overreacted.io/before-you-memo/)
 - 📜 [A Complete Guide to useEffect by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
@@ -141,6 +152,7 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Blog Claps, and lessons on Hooks By Brad Westfall](https://reacttraining.com/blog/blog-claps-and-lessons-on-hooks/)
 
 ### Talks
+
 - 🎥 [React Today and Tomorrow and 90% Cleaner React With Hooks by Dan Abramov](https://www.youtube.com/watch?v=dpw9EHDh2bM&list=RDCMUCz5vTaEhvh7dOHEyd1efcaQ&start_radio=1&rv=dpw9EHDh2bM&t=4)
 - 🎥 [90% Cleaner React With Hooks by Ryan Florence](https://youtu.be/wXLf18DsV-I)
 - 🎥 [Fun with React Hooks by Michael Jackson and Ryan Florence](https://youtu.be/1jWS7cCuUXw)
@@ -152,6 +164,7 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [Composing Behavior in React or Why React Hooks are Awesome by Michael Jackson](https://www.youtube.com/watch?v=nUzLlHFVXx0)
 
 ### Podcasts
+
 - 🎙️ [Realigning Your Model of React After Hooks With Dan Abramov](https://kentcdodds.com/chats/01/03/realigning-your-model-of-react-after-hooks-with-dan-abramov)
 - 🎙️ [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 - 🎙️ [Hooks are Mixins with Ryan Florence](https://spec.fm/podcasts/reactpodcast/6495881a)
@@ -159,6 +172,7 @@ These are the react experts to whom content and resources we are referring
 ## Rendering [🔝](#table-of-contents)
 
 ### Blogs and Articles
+
 - 📜 [Introducing the React Profiler By Brian Vaughn](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 - 📜 [Introducing the New React DevTools By Brian Vaughn](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 - 📜 [React Inline Functions And Performance By Ryan Florence](https://reacttraining.com/blog/react-inline-functions-and-performance/)
@@ -170,6 +184,7 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Use a render prop by Michael Jackson](https://reactjs.org/docs/render-props.html)
 
 ### Talks
+
 - 🎥 [Concurrent Rendering in React by Andrew Clark and Brian Vaughn](https://www.youtube.com/watch?v=ByBPyMBTzM0)
 - 🎥 [Creating More Efficient React Views with Windowing By Brian Vaughn](https://www.youtube.com/watch?v=t4tuhg7b50I)
 - 🎥 [React Developer tooling By Brian Vaughn](https://www.youtube.com/watch?v=Mjrfb1r3XEM)
@@ -180,6 +195,7 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [Never Write Another HoC by Michael Jackson](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 
 ### Podcasts
+
 - 🎙️ [Decide with Your Human Brain, with Brian Vaughn. On the new React profiler, windowing, and intelligent performance tuning.](https://reactpodcast.com/episodes/37)
 - 🎙️ [Brian Vaughn on Fast Refresh for Web and Concurrent React Dev Tools](https://play.acast.com/s/the-react-podcast/dc1f412e-e108-4497-9c62-a152c21a488a)
 - 🎙️ [Brian Vaughn on Async Rendering System and New Component Lifecycle Methods](https://podcast.codingzeal.com/114820/696362-brian-vaughn-react-core-team-member)
@@ -188,6 +204,7 @@ These are the react experts to whom content and resources we are referring
 ## Patterns [🔝](#table-of-contents)
 
 ### Blogs and Articles
+
 - 📜 [Advanced Element Composition in React by Ryan Florence](https://ryanflorence.dev/p/advanced-element-composition-in-react)
 - 📜 [The State Initializer Pattern by Kent C. Dodds](https://kentcdodds.com/blog/the-state-initializer-pattern)
 - 📜 [Advanced React Component Patterns by Kent C. Dodds](https://kentcdodds.com/blog/updated-advanced-react-component-patterns)
@@ -199,16 +216,19 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Memoization and React by Kent C. Dodds](https://epicreact.dev/memoization-and-react/)
 
 ### Talks
+
 - 🎥 [When To Fetch: Remixing React Router by Ryan Florence](https://www.youtube.com/watch?v=95B8mnhzoCM)
 - 🎥 [The Curse Of React By Ryan Florence](https://www.youtube.com/watch?v=orq9XnHGTgQ)
 - 🎥 [Making The DOM Declarative by Michael Jackson](https://www.youtube.com/watch?v=vyO5wKHlWZg)
 
 ### Podcasts
+
 - 🎙️ [Building Accessible UI Components by Ryan Florence](https://fullstackradio.com/97)
 
 ## Testing [🔝](#table-of-contents)
 
 ### Blogs and Articles
+
 - 📜 [Introducing the react-testing-library by Kent C. Dodds](https://kentcdodds.com/blog/introducing-the-react-testing-library)
 - 📜 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps by Kent C. Dodds](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
 - 📜 [React Hooks: What's going to happen to my tests? by Kent C. Dodds](https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-my-tests)
@@ -218,11 +238,28 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Write fewer, longer tests by Kent C. Dodds](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - 📜 [How to Test React.useEffect by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/)
 
-
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
+<!-- REACT IN TYPESCRIPT -->
+
+## React in TypeScript [🔝](#table-of-contents)
+
+### Blogs and Articles
+
+- 📜 [Wrapping React.useState with TypeScript](https://kentcdodds.com/blog/wrapping-react-use-state-with-type-script?ck_subscriber_id=363851721)
+- 📜 [How to write a React Component in TypeScript](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript)
+
+### Talks
+
+- 🎥 [TypeScript-ifying react-workshop-app](https://www.youtube.com/watch?v=3gGoV1TYmFk)
+- 🎥 [TypeScript-ifying EpicReact.dev workshops](https://www.youtube.com/watch?v=ouKooD-Afjo)
+- 🎥 [TypeScript-ifying the React Fundamentals workshop](https://www.youtube.com/watch?v=-p4RXvG9x-U)
+- 🎥 [TypeScript-ifying EpicReact.dev workshops](https://www.youtube.com/watch?v=N59_LYnf_SI)
+- 🎥 [TypeScriptifying the "Advanced React Hooks" workshop](https://www.youtube.com/watch?v=wsTKYr2acl8)
 <!-- CONTRIBUTION -->
+
 ## Contribution
+
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated!**.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
@@ -230,14 +267,16 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- LICENSE -->
+
 ## License
+
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+
 [contributors-shield]: https://img.shields.io/github/contributors/Techwards/all-about-react.svg?style=for-the-badge
 [contributors-url]: https://github.com/Techwards/all-about-react/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Techwards/all-about-react.svg?style=for-the-badge
