@@ -97,6 +97,7 @@ These are the react experts to whom content and resources we are referring
 - **[Rendering](#-rendering)**
 - **[Patterns](#-patterns)**
 - **[Testing](#-testing)**
+- **[React in TypeScript](#-react-in-typescript)**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
@@ -218,6 +219,18 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Write fewer, longer tests by Kent C. Dodds](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - 📜 [How to Test React.useEffect by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/)
 
+<!-- REACT IN TYPESCRIPT -->
+## React in TypeScript [🔝](#table-of-contents)
+### Blogs and Articles
+- 📜 [Wrapping React.useState with TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/wrapping-react-use-state-with-type-script?ck_subscriber_id=363851721)
+- 📜 [How to write a React Component in TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript)
+
+### Talks
+- 🎥 [TypeScript-ifying react-workshop-app by Kent C. Dodds](https://www.youtube.com/watch?v=3gGoV1TYmFk)
+- 🎥 [TypeScript-ifying EpicReact.dev workshops by Kent C. Dodds](https://www.youtube.com/watch?v=ouKooD-Afjo)
+- 🎥 [TypeScript-ifying the React Fundamentals workshop by Kent C. Dodds](https://www.youtube.com/watch?v=-p4RXvG9x-U)
+- 🎥 [TypeScript-ifying EpicReact.dev workshops by Kent C. Dodds](https://www.youtube.com/watch?v=N59_LYnf_SI)
+- 🎥 [TypeScriptifying the "Advanced React Hooks" workshop by Kent C. Dodds](https://www.youtube.com/watch?v=wsTKYr2acl8)
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
