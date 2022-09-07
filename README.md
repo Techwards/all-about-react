@@ -245,7 +245,6 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 <!-- LICENSE -->
 ## License
-
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
@@ -253,7 +252,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
 [contributors-shield]: https://img.shields.io/github/contributors/Techwards/all-about-react.svg?style=for-the-badge
 [contributors-url]: https://github.com/Techwards/all-about-react/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Techwards/all-about-react.svg?style=for-the-badge
