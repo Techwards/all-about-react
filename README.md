@@ -30,7 +30,6 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-
 ## About The Project
 This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain. 
 
