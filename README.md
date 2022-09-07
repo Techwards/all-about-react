@@ -32,9 +32,9 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain.
+This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain. 
 
-It serves as a curated list of React material and content to help in learning react in-depth and build a solid foundation of programming concepts. We organized the material topic-wise and categorized it into articles, talks, and podcasts for now.
+It serves as a curated list of React material and content to help in learning react in-depth and build a solid foundation of programming concepts. We organized the material topic-wise and categorized it into articles, talks, and podcasts for now. 
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
@@ -125,7 +125,6 @@ These are the react experts to whom content and resources we are referring
 ## Hooks [🔝](#table-of-contents)
 
 ### Blogs and Articles
-
 - 📜 [Why Do React Hooks Rely on Call Order by Dan Abramov](https://overreacted.io/why-do-hooks-rely-on-call-order/)
 - 📜 [Before You memo() by Dan Abramov](https://overreacted.io/before-you-memo/)
 - 📜 [A Complete Guide to useEffect by Dan Abramov](https://overreacted.io/a-complete-guide-to-useeffect/)
@@ -144,7 +143,6 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Blog Claps, and lessons on Hooks By Brad Westfall](https://reacttraining.com/blog/blog-claps-and-lessons-on-hooks/)
 
 ### Talks
-
 - 🎥 [React Today and Tomorrow and 90% Cleaner React With Hooks by Dan Abramov](https://www.youtube.com/watch?v=dpw9EHDh2bM&list=RDCMUCz5vTaEhvh7dOHEyd1efcaQ&start_radio=1&rv=dpw9EHDh2bM&t=4)
 - 🎥 [90% Cleaner React With Hooks by Ryan Florence](https://youtu.be/wXLf18DsV-I)
 - 🎥 [Fun with React Hooks by Michael Jackson and Ryan Florence](https://youtu.be/1jWS7cCuUXw)
@@ -156,7 +154,6 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [Composing Behavior in React or Why React Hooks are Awesome by Michael Jackson](https://www.youtube.com/watch?v=nUzLlHFVXx0)
 
 ### Podcasts
-
 - 🎙️ [Realigning Your Model of React After Hooks With Dan Abramov](https://kentcdodds.com/chats/01/03/realigning-your-model-of-react-after-hooks-with-dan-abramov)
 - 🎙️ [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 - 🎙️ [Hooks are Mixins with Ryan Florence](https://spec.fm/podcasts/reactpodcast/6495881a)
@@ -239,7 +236,6 @@ These are the react experts to whom content and resources we are referring
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- CONTRIBUTION -->
-
 ## Contribution
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated!**.
 
@@ -248,12 +244,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first.
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- LICENSE -->
-
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
+
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
