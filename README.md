@@ -32,7 +32,6 @@
 <!-- ABOUT THE PROJECT -->
 
 ## About The Project
-
 This Project is created to help developers master their concepts and expertise in React by learning from articles, talks, and podcasts from industry experts in this domain.
 
 It serves as a curated list of React material and content to help in learning react in-depth and build a solid foundation of programming concepts. We organized the material topic-wise and categorized it into articles, talks, and podcasts for now.
@@ -40,11 +39,8 @@ It serves as a curated list of React material and content to help in learning re
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- EXPERTS -->
-
 ## Experts
-
 These are the react experts to whom content and resources we are referring
-
 <table>
   <tr>
       <td align="center"><a href="#personal_blog"><img src="https://avatars.githubusercontent.com/u/3624098?v=4?s=100" width="100px;" alt="Andrew Clark"/><br /><sub><b>Andrew Clark</b></sub></a><br /><a href="https://github.com/acdlite" title="Github Profile"><img align="center"
@@ -95,7 +91,6 @@ These are the react experts to whom content and resources we are referring
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- TABLE OF CONTENT -->
-
 ## <a id="table-of-contents">Table of Contents</a>
 
 - **[State and Props](#-state-and-props)**
@@ -108,11 +103,9 @@ These are the react experts to whom content and resources we are referring
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- STATE AND PROPS -->
-
 ## State and Props [🔝](#table-of-contents)
 
 ### Blogs and Articles
-
 - 📜 [You Probably Don't Need Derived State by Brian Vaughn](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#when-to-use-derived-state)
 - 📜 [Props vs State by Kent C. Dodds](https://kentcdodds.com/blog/props-vs-state)
 - 📜 [Don't Sync State. Derive It by Kent C. Dodds](https://kentcdodds.com/blog/application-state-management-with-react)
@@ -127,7 +120,6 @@ These are the react experts to whom content and resources we are referring
 - 📜 [How is state related to the declarative approach in React? by Brad Westfall](https://reacttraining.com/blog/state-and-the-declarative-approach/)
 
 ### Talks
-
 - 🎥 [Using Composition in React to Avoid "Prop Drilling" By Michael Jackson](https://www.youtube.com/watch?v=3XaXKiXtNjw)
 
 ## Hooks [🔝](#table-of-contents)
@@ -172,7 +164,6 @@ These are the react experts to whom content and resources we are referring
 ## Rendering [🔝](#table-of-contents)
 
 ### Blogs and Articles
-
 - 📜 [Introducing the React Profiler By Brian Vaughn](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
 - 📜 [Introducing the New React DevTools By Brian Vaughn](https://reactjs.org/blog/2019/08/15/new-react-devtools.html)
 - 📜 [React Inline Functions And Performance By Ryan Florence](https://reacttraining.com/blog/react-inline-functions-and-performance/)
@@ -184,7 +175,6 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Use a render prop by Michael Jackson](https://reactjs.org/docs/render-props.html)
 
 ### Talks
-
 - 🎥 [Concurrent Rendering in React by Andrew Clark and Brian Vaughn](https://www.youtube.com/watch?v=ByBPyMBTzM0)
 - 🎥 [Creating More Efficient React Views with Windowing By Brian Vaughn](https://www.youtube.com/watch?v=t4tuhg7b50I)
 - 🎥 [React Developer tooling By Brian Vaughn](https://www.youtube.com/watch?v=Mjrfb1r3XEM)
@@ -195,7 +185,6 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [Never Write Another HoC by Michael Jackson](https://www.youtube.com/watch?v=BcVAq3YFiuc)
 
 ### Podcasts
-
 - 🎙️ [Decide with Your Human Brain, with Brian Vaughn. On the new React profiler, windowing, and intelligent performance tuning.](https://reactpodcast.com/episodes/37)
 - 🎙️ [Brian Vaughn on Fast Refresh for Web and Concurrent React Dev Tools](https://play.acast.com/s/the-react-podcast/dc1f412e-e108-4497-9c62-a152c21a488a)
 - 🎙️ [Brian Vaughn on Async Rendering System and New Component Lifecycle Methods](https://podcast.codingzeal.com/114820/696362-brian-vaughn-react-core-team-member)
@@ -204,7 +193,6 @@ These are the react experts to whom content and resources we are referring
 ## Patterns [🔝](#table-of-contents)
 
 ### Blogs and Articles
-
 - 📜 [Advanced Element Composition in React by Ryan Florence](https://ryanflorence.dev/p/advanced-element-composition-in-react)
 - 📜 [The State Initializer Pattern by Kent C. Dodds](https://kentcdodds.com/blog/the-state-initializer-pattern)
 - 📜 [Advanced React Component Patterns by Kent C. Dodds](https://kentcdodds.com/blog/updated-advanced-react-component-patterns)
@@ -216,19 +204,16 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Memoization and React by Kent C. Dodds](https://epicreact.dev/memoization-and-react/)
 
 ### Talks
-
 - 🎥 [When To Fetch: Remixing React Router by Ryan Florence](https://www.youtube.com/watch?v=95B8mnhzoCM)
 - 🎥 [The Curse Of React By Ryan Florence](https://www.youtube.com/watch?v=orq9XnHGTgQ)
 - 🎥 [Making The DOM Declarative by Michael Jackson](https://www.youtube.com/watch?v=vyO5wKHlWZg)
 
 ### Podcasts
-
 - 🎙️ [Building Accessible UI Components by Ryan Florence](https://fullstackradio.com/97)
 
 ## Testing [🔝](#table-of-contents)
 
 ### Blogs and Articles
-
 - 📜 [Introducing the react-testing-library by Kent C. Dodds](https://kentcdodds.com/blog/introducing-the-react-testing-library)
 - 📜 [Static vs Unit vs Integration vs E2E Testing for Frontend Apps by Kent C. Dodds](https://kentcdodds.com/blog/static-vs-unit-vs-integration-vs-e2e-tests)
 - 📜 [React Hooks: What's going to happen to my tests? by Kent C. Dodds](https://kentcdodds.com/blog/react-hooks-whats-going-to-happen-to-my-tests)
@@ -239,16 +224,12 @@ These are the react experts to whom content and resources we are referring
 - 📜 [How to Test React.useEffect by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/)
 
 <!-- REACT IN TYPESCRIPT -->
-
 ## React in TypeScript [🔝](#table-of-contents)
-
 ### Blogs and Articles
-
 - 📜 [Wrapping React.useState with TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/wrapping-react-use-state-with-type-script?ck_subscriber_id=363851721)
 - 📜 [How to write a React Component in TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript)
 
 ### Talks
-
 - 🎥 [TypeScript-ifying react-workshop-app by Kent C. Dodds](https://www.youtube.com/watch?v=3gGoV1TYmFk)
 - 🎥 [TypeScript-ifying EpicReact.dev workshops by Kent C. Dodds](https://www.youtube.com/watch?v=ouKooD-Afjo)
 - 🎥 [TypeScript-ifying the React Fundamentals workshop by Kent C. Dodds](https://www.youtube.com/watch?v=-p4RXvG9x-U)
@@ -260,7 +241,6 @@ These are the react experts to whom content and resources we are referring
 <!-- CONTRIBUTION -->
 
 ## Contribution
-
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated!**.
 
 Please read the [contribution guidelines](CONTRIBUTING.md) first.
