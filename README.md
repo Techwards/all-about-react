@@ -246,12 +246,12 @@ These are the react experts to whom content and resources we are referring
 - 📜 [How to Test React.useEffect by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/)
 
 ### Talks
-- 📜 [Automating All the Code & Testing Things with GitHub Actions by Colby Fayock](https://portal.gitnation.org/contents/automating-all-the-code-and-testing-things-with-github-actions)
-- 📜 [To Mock or Not to Mock - That's the Question by Rita Castro](https://portal.gitnation.org/contents/to-mock-or-not-to-mock-thats-the-question)
-- 📜 [Don’t Let Your Unit Tests Slow You Down: Improve your front-end testing by Daniel Irvine](https://www.youtube.com/watch?v=1vDXRDQ9aJE&list=PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM&index=4)
-- 📜 [Testing Is All About Principles by Alex Lobera](https://www.youtube.com/watch?v=xjP3Ll1UhEw)
-- 📜 [BDD & TDD in React by Laura Beatris](https://www.youtube.com/watch?v=IbAiiHMD0Mg)
-- 📜 [Write Tests. Generate UI. Profit! by Ed Bentley](https://www.youtube.com/watch?v=zy6qz5_CFc0)
+- 🎥 [Automating All the Code & Testing Things with GitHub Actions by Colby Fayock](https://portal.gitnation.org/contents/automating-all-the-code-and-testing-things-with-github-actions)
+- 🎥 [To Mock or Not to Mock - That's the Question by Rita Castro](https://portal.gitnation.org/contents/to-mock-or-not-to-mock-thats-the-question)
+- 🎥 [Don’t Let Your Unit Tests Slow You Down: Improve your front-end testing by Daniel Irvine](https://www.youtube.com/watch?v=1vDXRDQ9aJE&list=PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM&index=4)
+- 🎥 [Testing Is All About Principles by Alex Lobera](https://www.youtube.com/watch?v=xjP3Ll1UhEw)
+- 🎥 [BDD & TDD in React by Laura Beatris](https://www.youtube.com/watch?v=IbAiiHMD0Mg)
+- 🎥 [Write Tests. Generate UI. Profit! by Ed Bentley](https://www.youtube.com/watch?v=zy6qz5_CFc0)
 
 
 <!-- REACT IN TYPESCRIPT -->
