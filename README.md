@@ -120,6 +120,8 @@ These are the react experts to whom content and resources we are referring
 
 ### Talks
 - 🎥 [Using Composition in React to Avoid "Prop Drilling" By Michael Jackson](https://www.youtube.com/watch?v=3XaXKiXtNjw)
+- 🎥 [The Actor Model: a new mental model for React by Farzad YousefZadeh](https://portal.gitnation.org/contents/the-actor-model-a-new-mental-model-for-react)
+- 🎥 [setState, We Need to Talk! by Nikhil Sharma](https://portal.gitnation.org/contents/setstate-we-need-to-talk)
 
 ## Hooks [🔝](#table-of-contents)
 
@@ -151,6 +153,14 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [React Hook Pitfalls - React Rally 2019 by Kent C. Dodds](https://www.youtube.com/watch?v=VIRcX2X7EUk)
 - 🎥 [React useEffect - What goes in the dependency array? What do functions sometimes go in the array? By Brad Westfall](https://www.youtube.com/watch?v=NbzDb15j_WU)
 - 🎥 [Composing Behavior in React or Why React Hooks are Awesome by Michael Jackson](https://www.youtube.com/watch?v=nUzLlHFVXx0)
+- 🎥 [Hooks are a great abstraction model by Calin Tamas](https://portal.gitnation.org/contents/hooks-are-a-great-abstraction-model)
+- 🎥 [We Don’t Know How React State Hooks Work by Adam Klein](https://portal.gitnation.org/contents/we-dont-know-how-react-state-hooks-work-456)
+- 🎥 [Don't Forget React Memo by Khrystyna Landvytovych](https://portal.gitnation.org/contents/dont-forget-react-memo)
+- 🎥 [Requisite React: Learn how to use React Hooks, Suspense & JSX by Kent C. Dodds](https://www.youtube.com/watch?v=tO8qHlr6Wqg&list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc&index=1)
+- 🎥 [React's Tackle Box, Using the Right Hooks for the Job by Bryan Pitt](https://www.youtube.com/watch?v=uDguyp13pl8)
+- 🎥 [Build Modern React apps with Hooks, Suspense, Context, and Firebase by Jeff Huleatt](https://www.youtube.com/watch?v=Mi9aKDcpRYA&list=PLNBNS7NRGKMH-zMH-MG7wSszTThAKFi3S&index=11)
+- 🎥 [The Psychological Effects of useEffect by Sara Vieira](https://www.youtube.com/watch?v=0Mfk9k1eXME)
+- 🎥 [React without memo by Xuan Huang](https://www.youtube.com/watch?v=lGEMwh32soc&t=404s)
 
 ### Podcasts
 - 🎙️ [Realigning Your Model of React After Hooks With Dan Abramov](https://kentcdodds.com/chats/01/03/realigning-your-model-of-react-after-hooks-with-dan-abramov)
@@ -179,6 +189,15 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [Deep dive with the React DevTools profiler By Brian Vaughn](https://www.youtube.com/watch?v=nySib7ipZdk)
 - 🎥 [Why The Form? Data Mutations on the Web - RenderATL 2022 by Ryan Florence](https://www.youtube.com/watch?v=CbW6gGfXUE8)
 - 🎥 [Never Write Another HoC by Michael Jackson](https://www.youtube.com/watch?v=BcVAq3YFiuc)
+- 🎥 [Road to a Better UX with Suspense and Concurrent UI by Nikhil Sharma](https://www.youtube.com/watch?v=mTCjvL3x04k)
+- 🎥 [Cracking the Concurrent Mode by Sudhanshu Yadav](https://portal.gitnation.org/contents/cracking-the-concurrent-mode)
+- 🎥 [Beyond Virtual Lists: How to Render 100K Items with 100s of Updates/sec in React by Michel Weststrate](https://portal.gitnation.org/contents/beyond-virtual-lists-how-to-render-100k-items-with-100s-of-updatessec-in-react)
+- 🎥 [The Worlds Most Expensive React Component and How to Stop Writing It by Michael Chan](https://portal.gitnation.org/contents/the-worlds-most-expensive-react-component-and-how-to-stop-writing-it)
+- 🎥 [Inside Fiber: the in-depth overview you wanted a TLDR for by  Matheus Albuquerque](https://portal.gitnation.org/contents/inside-fiber-the-in-depth-overview-you-wanted-a-tldr-for)
+- 🎥 [Let's Talk about Re-renders by Nadia Makarevich](https://portal.gitnation.org/contents/lets-talk-about-re-renders)
+- 🎥 [React Advanced Keynote: Performance is magic by Ken Wheeler](https://www.youtube.com/watch?v=t8svxxtUTl8)
+- 🎥 [Track and increase speed of your apps by Jessica Leach](https://www.youtube.com/watch?v=vDXF7iGEGzo)
+- 🎥 [An Overview of React's Reconciliation Algorithm by Elad Tzemach](https://www.youtube.com/watch?v=3_g_kv1PWXI)
 
 ### Podcasts
 - 🎙️ [Decide with Your Human Brain, with Brian Vaughn. On the new React profiler, windowing, and intelligent performance tuning.](https://reactpodcast.com/episodes/37)
@@ -203,6 +222,13 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [When To Fetch: Remixing React Router by Ryan Florence](https://www.youtube.com/watch?v=95B8mnhzoCM)
 - 🎥 [The Curse Of React By Ryan Florence](https://www.youtube.com/watch?v=orq9XnHGTgQ)
 - 🎥 [Making The DOM Declarative by Michael Jackson](https://www.youtube.com/watch?v=vyO5wKHlWZg)
+- 🎥 [Components, Patterns and sh*t it's Hard to Deal with by Marco Cedaro](https://portal.gitnation.org/contents/components-patterns-and-sht-its-hard-to-deal-with)
+- 🎥 [Refactoring React: Which component pattern can improve your codebase? by Siddharth Kshetrapal](https://www.youtube.com/watch?v=2Dw8gA60d_k&list=PLNBNS7NRGKMHLTeH4qfD3F320GXfj97kc&index=3)
+- 🎥 [UI as API by Narendra Shetty](https://www.youtube.com/watch?v=VN43HsCU3qM)
+- 🎥 [How Many Ways to Say I'm Sorry, Error Handling in React by Jesse Martin](https://www.youtube.com/watch?v=ExC0N1XHaRQ)
+- 🎥 [Scalable React Development for Large Projects by Jason Jean](https://www.youtube.com/watch?v=Lr-u2ALSEQg)
+- 🎥 [Designing with Code in Mind by Elizabet Oliveira](https://www.youtube.com/watch?v=fYQoeaJMLjw)
+- 🎥 [Setting Up Feature Flags with React by Talia Nassi](https://www.youtube.com/watch?v=533cKBMyKWg)
 
 ### Podcasts
 - 🎙️ [Building Accessible UI Components by Ryan Florence](https://fullstackradio.com/97)
@@ -218,6 +244,15 @@ These are the react experts to whom content and resources we are referring
 - 📜 [Testing Implementation Details by Kent C. Dodds](https://kentcdodds.com/blog/testing-implementation-details)
 - 📜 [Write fewer, longer tests by Kent C. Dodds](https://kentcdodds.com/blog/write-fewer-longer-tests)
 - 📜 [How to Test React.useEffect by Kent C. Dodds](https://epicreact.dev/how-to-test-react-use-effect/)
+
+### Talks
+- 📜 [Automating All the Code & Testing Things with GitHub Actions by Colby Fayock](https://portal.gitnation.org/contents/automating-all-the-code-and-testing-things-with-github-actions)
+- 📜 [To Mock or Not to Mock - That's the Question by Rita Castro](https://portal.gitnation.org/contents/to-mock-or-not-to-mock-thats-the-question)
+- 📜 [Don’t Let Your Unit Tests Slow You Down: Improve your front-end testing by Daniel Irvine](https://www.youtube.com/watch?v=1vDXRDQ9aJE&list=PLNBNS7NRGKMH7yfpYQD4TrFV25SMOCIPM&index=4)
+- 📜 [Testing Is All About Principles by Alex Lobera](https://www.youtube.com/watch?v=xjP3Ll1UhEw)
+- 📜 [BDD & TDD in React by Laura Beatris](https://www.youtube.com/watch?v=IbAiiHMD0Mg)
+- 📜 [Write Tests. Generate UI. Profit! by Ed Bentley](https://www.youtube.com/watch?v=zy6qz5_CFc0)
+
 
 <!-- REACT IN TYPESCRIPT -->
 ## React in TypeScript [🔝](#table-of-contents)
