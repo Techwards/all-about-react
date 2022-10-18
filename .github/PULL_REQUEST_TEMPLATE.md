@@ -1,6 +1,6 @@
 
 ## Description
-This PR fixes | closes **#ISSUE_NUMBER**
+This PR closes #ISSUE_NUMBER
 
 Changes proposed in this pull request:
 - Item 1

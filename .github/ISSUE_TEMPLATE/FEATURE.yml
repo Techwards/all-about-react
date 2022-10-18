@@ -1,7 +1,7 @@
 name: Feature Request
 description: Suggest a topic, expert or any idea for improving all-about-react
 title: "[Feature]: "
-labels: ["feature", "triage"]
+labels: ["feature"]
 assignees:
   - nabeel-shakeel
 body:
@@ -24,9 +24,8 @@ body:
       description: Select the feature type
       options:
         - New react expert
-        - New react topic
-        - Idea
-        - Other
+        - Add new topic or resource
+        - Something else!
     validations:
       required: true
   - type: textarea

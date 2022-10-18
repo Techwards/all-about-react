@@ -92,17 +92,17 @@ These are the react experts to whom content and resources we are referring
 <!-- TABLE OF CONTENT -->
 ## <a id="table-of-contents">Table of Contents</a>
 
-- **[State and Props](#-state-and-props)**
-- **[Hooks](#-hooks)**
-- **[Rendering](#-rendering)**
-- **[Patterns](#-patterns)**
-- **[Testing](#-testing)**
-- **[React in TypeScript](#-react-in-typescript)**
+- **[State and Props](#state-and-props)**
+- **[Hooks](#hooks)**
+- **[Rendering](#rendering)**
+- **[Patterns](#patterns)**
+- **[Testing](#testing)**
+- **[React in TypeScript](#react-in-typescript)**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
 <!-- STATE AND PROPS -->
-## State and Props [🔝](#table-of-contents)
+## <a id="state-and-props">State and Props</a> [🔝](#table-of-contents)
 
 ### Blogs and Articles
 - 📜 [You Probably Don't Need Derived State by Brian Vaughn](https://reactjs.org/blog/2018/06/07/you-probably-dont-need-derived-state.html#when-to-use-derived-state)
@@ -123,7 +123,7 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [The Actor Model: a new mental model for React by Farzad YousefZadeh](https://portal.gitnation.org/contents/the-actor-model-a-new-mental-model-for-react)
 - 🎥 [setState, We Need to Talk! by Nikhil Sharma](https://portal.gitnation.org/contents/setstate-we-need-to-talk)
 
-## Hooks [🔝](#table-of-contents)
+## <a id="hooks">Hooks</a> [🔝](#table-of-contents)
 
 ### Blogs and Articles
 - 📜 [Why Do React Hooks Rely on Call Order by Dan Abramov](https://overreacted.io/why-do-hooks-rely-on-call-order/)
@@ -167,7 +167,7 @@ These are the react experts to whom content and resources we are referring
 - 🎙️ [Trying React Hooks for the first time with Dan Abramov](https://www.youtube.com/watch?v=G-aO5hzo1aw)
 - 🎙️ [Hooks are Mixins with Ryan Florence](https://spec.fm/podcasts/reactpodcast/6495881a)
 
-## Rendering [🔝](#table-of-contents)
+## <a id="rendering">Rendering</a> [🔝](#table-of-contents)
 
 ### Blogs and Articles
 - 📜 [Introducing the React Profiler By Brian Vaughn](https://reactjs.org/blog/2018/09/10/introducing-the-react-profiler.html)
@@ -205,7 +205,7 @@ These are the react experts to whom content and resources we are referring
 - 🎙️ [Brian Vaughn on Async Rendering System and New Component Lifecycle Methods](https://podcast.codingzeal.com/114820/696362-brian-vaughn-react-core-team-member)
 - 🎙️ [Michael Jackson on Async React with Andrew Clark](https://reactpodcast.com/6)
 
-## Patterns [🔝](#table-of-contents)
+## <a id="patterns">Patterns</a> [🔝](#table-of-contents)
 
 ### Blogs and Articles
 - 📜 [Advanced Element Composition in React by Ryan Florence](https://ryanflorence.dev/p/advanced-element-composition-in-react)
@@ -233,7 +233,7 @@ These are the react experts to whom content and resources we are referring
 ### Podcasts
 - 🎙️ [Building Accessible UI Components by Ryan Florence](https://fullstackradio.com/97)
 
-## Testing [🔝](#table-of-contents)
+## <a id="testing">Testing</a> [🔝](#table-of-contents)
 
 ### Blogs and Articles
 - 📜 [Introducing the react-testing-library by Kent C. Dodds](https://kentcdodds.com/blog/introducing-the-react-testing-library)
@@ -255,7 +255,7 @@ These are the react experts to whom content and resources we are referring
 
 
 <!-- REACT IN TYPESCRIPT -->
-## React in TypeScript [🔝](#table-of-contents)
+## <a id="react-in-typescript">React in TypeScript</a> [🔝](#table-of-contents)
 ### Blogs and Articles
 - 📜 [Wrapping React.useState with TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/wrapping-react-use-state-with-type-script?ck_subscriber_id=363851721)
 - 📜 [How to write a React Component in TypeScript by Kent C. Dodds](https://kentcdodds.com/blog/how-to-write-a-react-component-in-typescript)
