@@ -277,6 +277,12 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
+<!-- Star -->
+## Star
+Don't forget to hit the ⭐, If you like this repository.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
+
 <!-- LICENSE -->
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
