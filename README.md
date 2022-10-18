@@ -277,6 +277,42 @@ Please read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
+<!-- MAINTAINERS -->
+## Maintainers
+<table>
+  <tr>
+    <td align="center">
+      <a href="#personal_blog"><img src="https://avatars.githubusercontent.com/u/39087083?v=4?s=100" width="100px;" alt="Nabeel Shakeel"/><br /><sub><b>Nabeel Shakeel</b></sub></a><br />
+      <a href="https://github.com/nabeel-shakeel" title="Github Profile"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="github handle" height="20" width="20" /></a>&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/nabeel-shakeel-130" title="LinkedIn Profile"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin handle" height="20" width="20" /></a>
+    </td>
+    <td align="center">
+      <a href="#personal_blog"><img src="https://avatars.githubusercontent.com/u/77956492?v=4?s=100" width="100px;" alt="Sheraz Siddiqui"/><br /><sub><b>Sheraz Siddiqui</b></sub></a><br />
+      <a href="https://github.com/Sheraz064-ai" title="Github Profile"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="github handle" height="20" width="20" /></a>&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/sherazsiddiqui0456" title="LinkedIn Profile"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin handle" height="20" width="20" /></a>
+    </td>
+    <td align="center">
+      <a href="#personal_blog"><img src="https://avatars.githubusercontent.com/u/34398018?v=4?s=100" width="100px;" alt="Muhammad Abdullah"/><br /><sub><b>Muhammad Abdullah</b></sub></a><br />
+      <a href="https://github.com/MAb540" title="Github Profile"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
+      alt="github handle" height="20" width="20" /></a>&nbsp;&nbsp;
+      <a href="https://www.linkedin.com/in/muhammad-abdullah-b1a315197" title="LinkedIn Profile"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin handle" height="20" width="20" /></a>
+    </td>
+  </tr>
+</table>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
+
 <!-- Star -->
 ## Star
 Don't forget to hit the ⭐, If you like this repository.
