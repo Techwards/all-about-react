@@ -94,10 +94,70 @@ These are the react experts to whom content and resources we are referring
 
 - **[State and Props](#state-and-props)**
 - **[Hooks](#hooks)**
+  - [useState](#use-state)
+  - [useEffect](#use-effect)
+  - [useCallback](#use-callback)
+  - [useContext](#use-context)
+  - [useDebugValue](#use-debug-value)
+  - [useDeferredValue](#use-deferred-value)
+  - [useEvent](#use-event)
+  - [useId](#use-id)
+  - [useImperativeHandle](#use-imperative-handle)
+  - [useInsertionEffect](#use-insertion-effect)
+  - [useLayoutEffect](#use-layout-effect)
+  - [useMemo](#use-memo)
+  - [useReducer](#use-reducer)
+  - [useRef](#use-ref)
+  - [useSyncExternalStore](#use-sync-external-store)
+  - [useTransition](#use-transition)
+- **[Routing](#routing)**
+  - [React Router](#react-router)
+- **[Styling](#styling)**
+  - [CSS-in-JS](#css-in-js)
+  - [Inline Styling](#inline-styling)
+  - [Styled Components](#styled-components)
+  - [CSS Modules](#css-modules)
+  - [React Router](#react-router)
+  - [Tailwind CSS](#tailwind-css)
+- **[Global State Management](#global-state-management)**
+  - [Redux](#redux)
+  - [Recoil](#recoil)
+  - [Jotai](#jotai)
+  - [Rematch](#rematch)
+  - [Hookstate](#hook-state)
+  - [MobX](#mobx)
+  - [Zustand](#zustand)
+- **[Data Fetching](#data-fetching)**
+  - [React Query](#react-query)
+  - [SWR](#swr)
+  - [RTK Query](#rtk-query)
+  - [Apollo](#apollo)
 - **[Rendering](#rendering)**
 - **[Patterns](#patterns)**
+  - [Composition vs Inheritance](#com-vs-int)
+  - [Custom Hooks](#custom-hooks)
+  - [Compound Component Pattern](#cmd-comp-pattern)
+  - [Composition Components vs Configuration Components](#cc-vs-cc)
 - **[Testing](#testing)**
-- **[React in TypeScript](#react-in-typescript)**
+  - [React Testing Library](#react-testing-library)
+  - [Jest](#jest)
+  - [Enzyme](#enzyme)
+- **[React in Typescript](#react-in-typescript)**
+- **[Server Side Rendering](#server-side-rendering)**
+  - [React Dom Server](#react-dom-server)
+  - [NextJS](#next-js)
+  - [Remix](#remix)
+  - [Gatsby](#gatsby)
+- **[Security](#security)**
+  - [Cyber Attacks](#cyber-attacks)
+  - [Vulnerabilities](#vulnerabilities)
+  - [Best Practices](#sec-best-practices)
+- **[Architecture](#architecture)**
+- **[Toolchains](#toolchains)**
+  - [Create React App](#create-react-app)
+  - [Vite](#vite)
+  - [Nx](#nx)
+- **[Dockerization](#dockerization)**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
@@ -123,6 +183,7 @@ These are the react experts to whom content and resources we are referring
 - 🎥 [The Actor Model: a new mental model for React by Farzad YousefZadeh](https://portal.gitnation.org/contents/the-actor-model-a-new-mental-model-for-react)
 - 🎥 [setState, We Need to Talk! by Nikhil Sharma](https://portal.gitnation.org/contents/setstate-we-need-to-talk)
 
+<!-- HOOKS -->
 ## <a id="hooks">Hooks</a> [🔝](#table-of-contents)
 
 ### Blogs and Articles
@@ -338,3 +399,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [issues-url]: https://github.com/Techwards/all-about-react/issues
 [license-shield]: https://img.shields.io/github/license/Techwards/all-about-react?style=for-the-badge
 [license-url]: https://github.com/Techwards/all-about-react
+[good-first-issue-shield]: https://img.shields.io/github/labels/Techwards/all-about-react/good%20first%20issue?style=for-the-badge
+[good-first-issues]: https://github.com/Techwards/all-about-react/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
