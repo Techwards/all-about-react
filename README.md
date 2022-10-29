@@ -110,16 +110,16 @@ These are the react experts to whom content and resources we are referring
   - [useRef](#use-ref)
   - [useSyncExternalStore](#use-sync-external-store)
   - [useTransition](#use-transition)
-- [Routing](#routing)
+- **[Routing](#routing)**
   - [React Router](#react-router)
-- [Styling](#styling)
+- **[Styling](#styling)**
   - [CSS-in-JS](#css-in-js)
   - [Inline Styling](#inline-styling)
   - [Styled Components](#styled-components)
   - [CSS Modules](#css-modules)
   - [React Router](#react-router)
   - [Tailwind CSS](#tailwind-css)
-- [Global State Management](#global-state-management)
+- **[Global State Management](#global-state-management)**
   - [Redux](#redux)
   - [Recoil](#recoil)
   - [Jotai](#jotai)
@@ -127,7 +127,7 @@ These are the react experts to whom content and resources we are referring
   - [Hookstate](#hook-state)
   - [MobX](#mobx)
   - [Zustand](#zustand)
-- [Data Fetching](#data-fetching)
+- **[Data Fetching](#data-fetching)**
   - [React Query](#react-query)
   - [SWR](#swr)
   - [RTK Query](#rtk-query)
@@ -143,21 +143,21 @@ These are the react experts to whom content and resources we are referring
   - [Jest](#jest)
   - [Enzyme](#enzyme)
 - **[React in Typescript](#react-in-typescript)**
-- [Server Side Rendering](#server-side-rendering)
+- **[Server Side Rendering](#server-side-rendering)**
   - [React Dom Server](#react-dom-server)
   - [NextJS](#next-js)
   - [Remix](#remix)
   - [Gatsby](#gatsby)
-- [Security](#security)
+- **[Security](#security)**
   - [Cyber Attacks](#cyber-attacks)
   - [Vulnerabilities](#vulnerabilities)
   - [Best Practices](#sec-best-practices)
-- [Architecture](#architecture)
-- [Toolchains](#toolchains)
+- **[Architecture](#architecture)**
+- **[Toolchains](#toolchains)**
   - [Create React App](#create-react-app)
   - [Vite](#vite)
   - [Nx](#nx)
-- [Dockerization](#dockerization)
+- **[Dockerization](#dockerization)**
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)
 
