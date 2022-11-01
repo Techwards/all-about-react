@@ -23,8 +23,9 @@ body:
       label: Feature Type
       description: Select the feature type
       options:
-        - New react expert
-        - Add new topic or resource
+        - Website Functionality
+        - Documentation
+        - CI/CD
         - Something else!
     validations:
       required: true
